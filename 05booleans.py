@@ -39,6 +39,6 @@ if myFunction():
   print("YES!")
 else:
   print("NO!")
-print('--------------------------')
+print('-----------isinstance() 지정된 값이 타입이 맞는지 확인---------------')
 x = 200
 print(isinstance(x, int))
